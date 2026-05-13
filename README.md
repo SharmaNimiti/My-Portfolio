@@ -5,8 +5,8 @@ Welcome to my personal portfolio website built to showcase my skills, projects, 
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/portfolio/  
-*(Replace with your GitHub Pages link)*
+👉  https://sharmanimiti.github.io/My-Portfolio/
+
 
 ---
 
